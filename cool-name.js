@@ -43,7 +43,7 @@ function send(){
     document.getElementById("msg").value = "";
 }
 function home(){
-    window.location = "index_room.html";
+    window.location = "cool_room.html";
 }
 function updateLike(message_id)
 {
